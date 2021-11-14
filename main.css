@@ -17,3 +17,8 @@ div {
 	justify-content: center;
 	align-items: center;
 }
+
+div span {
+	position: absolute;
+	transform: translate(-50%, -50);
+}
